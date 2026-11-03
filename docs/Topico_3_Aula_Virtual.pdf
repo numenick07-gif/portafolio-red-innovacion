@@ -1,0 +1,275 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1082 >>
+stream
+BT
+/B 16 Tf 1 0 0 1 50 714.64 Tm (T\323PICO 3: LAS TIC EN LA EDUCACI\323N A DISTANCIA) Tj
+/B 14 Tf 1 0 0 1 50 683.20 Tm (Dise\361o de un aula virtual) Tj
+/R 12 Tf 1 0 0 1 50 645.68 Tm (Red de Innovaci\363n: dise\361o de un entorno digital de) Tj
+/R 12 Tf 1 0 0 1 50 628.16 Tm (aprendizaje para Matem\341ticas de quinto grado) Tj
+/R 11 Tf 1 0 0 1 50 557.10 Tm (UCATECI - Maestr\355a en Investigaci\363n e Innovaci\363n Educativa) Tj
+/R 11 Tf 1 0 0 1 50 531.04 Tm (Las TIC en la Investigaci\363n e Innovaci\363n Educativa) Tj
+/R 11 Tf 1 0 0 1 50 504.98 Tm (Grupo: Red de Innovaci\363n) Tj
+/R 11 Tf 1 0 0 1 50 478.92 Tm (Yessica Raquel Amarante Aquino) Tj
+/R 11 Tf 1 0 0 1 50 452.86 Tm (Carlos Echavarr\355a) Tj
+/R 11 Tf 1 0 0 1 50 426.80 Tm (Liskeidy Rosario P\351rez) Tj
+/R 11 Tf 1 0 0 1 50 400.74 Tm (Facilitador: Dr. Freddy J. Guzm\341n) Tj
+/R 11 Tf 1 0 0 1 50 374.68 Tm (Noviembre de 2026) Tj
+/R 11 Tf 1 0 0 1 50 348.62 Tm (Recurso: https://aula-rosario-aprende.lis779.chatgpt.site/) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (1) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4691 >>
+stream
+BT
+/B 13 Tf 1 0 0 1 50 708.02 Tm (1. Introducci\363n) Tj
+/R 9.8 Tf 1 0 0 1 50 684.71 Tm (La educaci\363n a distancia y los ambientes virtuales de aprendizaje han ampliado las posibilidades) Tj
+/R 9.8 Tf 1 0 0 1 50 670.40 Tm (de acceso a contenidos, participaci\363n y seguimiento pedag\363gico. Sin embargo, un aula virtual no) Tj
+/R 9.8 Tf 1 0 0 1 50 656.10 Tm (equivale a un repositorio de documentos: para ser educativa debe articular objetivos,) Tj
+/R 9.8 Tf 1 0 0 1 50 641.79 Tm (explicaciones comprensibles, actividades significativas, interacci\363n y evaluaci\363n formativa.) Tj
+/R 9.8 Tf 1 0 0 1 50 618.48 Tm (En el T\363pico 3, el grupo Red de Innovaci\363n presenta el dise\361o de su aula virtual dirigida al) Tj
+/R 9.8 Tf 1 0 0 1 50 604.17 Tm (aprendizaje de Matem\341ticas de quinto grado de Educaci\363n Primaria. El recurso responde a la) Tj
+/R 9.8 Tf 1 0 0 1 50 589.86 Tm (necesidad de atender diferencias en tiempos, conocimientos previos y apoyos requeridos para) Tj
+/R 9.8 Tf 1 0 0 1 50 575.56 Tm (comprender los n\372meros naturales mayores que un mill\363n y la adici\363n.) Tj
+/R 9.8 Tf 1 0 0 1 50 552.25 Tm (Esta experiencia representa el paso de la reflexi\363n pedag\363gica desarrollada en los t\363picos) Tj
+/R 9.8 Tf 1 0 0 1 50 537.94 Tm (anteriores hacia un producto digital explorable. Se describe el dise\361o y las funciones previstas o) Tj
+/R 9.8 Tf 1 0 0 1 50 523.63 Tm (presentadas en el prototipo; no se atribuyen mejoras comprobadas en el rendimiento estudiantil.) Tj
+/B 13 Tf 1 0 0 1 50 484.65 Tm (2. Problema educativo y contexto de referencia) Tj
+/R 9.8 Tf 1 0 0 1 50 461.34 Tm (La propuesta se contextualiza acad\351micamente en el segundo ciclo de Educaci\363n Primaria, con) Tj
+/R 9.8 Tf 1 0 0 1 50 447.04 Tm (referencia a la Escuela Pedro Henr\355quez Ure\361a de Villa Altagracia, Rep\372blica Dominicana. Su) Tj
+/R 9.8 Tf 1 0 0 1 50 432.73 Tm (contenido se concentra en la secuencia 1 de Matem\341ticas de quinto grado, especialmente en el) Tj
+/R 9.8 Tf 1 0 0 1 50 418.42 Tm (sistema de numeraci\363n decimal, n\372meros naturales de varias cifras y operaciones de adici\363n.) Tj
+/R 9.8 Tf 1 0 0 1 50 395.11 Tm (En un mismo grupo, algunos estudiantes pueden interpretar las explicaciones iniciales con) Tj
+/R 9.8 Tf 1 0 0 1 50 380.80 Tm (facilidad mientras otros necesitan representaciones complementarias, mayor pr\341ctica o) Tj
+/R 9.8 Tf 1 0 0 1 50 366.50 Tm (retroalimentaci\363n m\341s frecuente. Una ense\361anza uniforme podr\355a limitar el acceso efectivo a los) Tj
+/R 9.8 Tf 1 0 0 1 50 352.19 Tm (objetivos comunes. Esta caracterizaci\363n es el punto de partida de una propuesta educativa y no) Tj
+/R 9.8 Tf 1 0 0 1 50 337.88 Tm (debe confundirse con resultados emp\355ricos de una evaluaci\363n del centro.) Tj
+/R 9.8 Tf 1 0 0 1 50 314.57 Tm (Surge la pregunta orientadora: \277c\363mo organizar un entorno virtual que complemente la ense\361anza) Tj
+/R 9.8 Tf 1 0 0 1 50 300.26 Tm (matem\341tica, diversifique los apoyos y permita interacci\363n y seguimiento sin comprometer la) Tj
+/R 9.8 Tf 1 0 0 1 50 285.96 Tm (inclusi\363n ni la privacidad de los estudiantes?) Tj
+/B 13 Tf 1 0 0 1 50 246.98 Tm (3. Fundamentaci\363n del aprendizaje en entornos virtuales) Tj
+/R 9.8 Tf 1 0 0 1 50 223.67 Tm (El dise\361o instruccional de un ambiente virtual exige coherencia entre los objetivos de) Tj
+/R 9.8 Tf 1 0 0 1 50 209.36 Tm (aprendizaje, los recursos, las tareas y los criterios de evaluaci\363n. El valor de la tecnolog\355a) Tj
+/R 9.8 Tf 1 0 0 1 50 195.05 Tm (depende de c\363mo se utiliza para apoyar procesos cognitivos, oportunidades de pr\341ctica y decisiones) Tj
+/R 9.8 Tf 1 0 0 1 50 180.74 Tm (docentes \(UNESCO, 2023\).) Tj
+/R 9.8 Tf 1 0 0 1 50 157.44 Tm (La perspectiva sociocultural de Vygotsky \(1978\) ayuda a comprender la importancia de la mediaci\363n,) Tj
+/R 9.8 Tf 1 0 0 1 50 143.13 Tm (el lenguaje y la interacci\363n entre compa\361eros. Por ello, las actividades no se limitan a) Tj
+/R 9.8 Tf 1 0 0 1 50 128.82 Tm (respuestas autom\341ticas: se contemplan espacios de preguntas, comentarios y discusi\363n de) Tj
+/R 9.8 Tf 1 0 0 1 50 114.51 Tm (procedimientos bajo acompa\361amiento docente.) Tj
+/R 9.8 Tf 1 0 0 1 50 91.20 Tm (El Dise\361o Universal para el Aprendizaje promueve m\372ltiples formas de implicaci\363n, representaci\363n,) Tj
+/R 9.8 Tf 1 0 0 1 50 76.90 Tm (acci\363n y expresi\363n, reduciendo barreras de participaci\363n \(CAST, 2024\). En el recurso se traducen) Tj
+/R 9.8 Tf 1 0 0 1 50 62.59 Tm (estos principios en explicaciones graduadas, consignas claras, materiales visuales y posibilidades) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (2) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4425 >>
+stream
+BT
+/R 9.8 Tf 1 0 0 1 50 723.69 Tm (de apoyo presencial o impreso.) Tj
+/B 13 Tf 1 0 0 1 50 684.71 Tm (4. Justificaci\363n y objetivos de la propuesta) Tj
+/R 9.8 Tf 1 0 0 1 50 661.40 Tm (La elaboraci\363n de un aula virtual propia ofrece una oportunidad para organizar de manera coherente) Tj
+/R 9.8 Tf 1 0 0 1 50 647.10 Tm (los materiales de una secuencia did\341ctica, facilitar su consulta en distintos momentos y reunir) Tj
+/R 9.8 Tf 1 0 0 1 50 632.79 Tm (evidencias de las actividades de aprendizaje. No busca sustituir la labor docente ni convertir) Tj
+/R 9.8 Tf 1 0 0 1 50 618.48 Tm (toda la ense\361anza en una experiencia exclusivamente digital.) Tj
+/R 9.8 Tf 1 0 0 1 50 595.17 Tm (Objetivo general: dise\361ar y presentar un prototipo de aula virtual de Matem\341ticas para quinto) Tj
+/R 9.8 Tf 1 0 0 1 50 580.86 Tm (grado que integre contenidos, actividades, interacci\363n y evaluaci\363n con la finalidad de apoyar) Tj
+/R 9.8 Tf 1 0 0 1 50 566.56 Tm (diferentes necesidades de aprendizaje.) Tj
+/R 9.8 Tf 1 0 0 1 50 543.25 Tm (Objetivos espec\355ficos: \(1\) organizar los contenidos y recursos de la secuencia 1 en una estructura) Tj
+/R 9.8 Tf 1 0 0 1 50 528.94 Tm (navegable; \(2\) presentar explicaciones claras, ejemplos y actividades de pr\341ctica; \(3\) promover) Tj
+/R 9.8 Tf 1 0 0 1 50 514.63 Tm (comentarios y preguntas entre estudiantes con mediaci\363n docente; \(4\) plantear un seguimiento) Tj
+/R 9.8 Tf 1 0 0 1 50 500.32 Tm (individual de los resultados; y \(5\) identificar requisitos de seguridad, accesibilidad y) Tj
+/R 9.8 Tf 1 0 0 1 50 486.02 Tm (validaci\363n antes de una implementaci\363n real.) Tj
+/B 13 Tf 1 0 0 1 50 447.04 Tm (5. Descripci\363n del prototipo Red de Innovaci\363n) Tj
+/R 9.8 Tf 1 0 0 1 50 423.73 Tm (Red de Innovaci\363n es un recurso digital existente y explorable desde el portafolio. Su propuesta) Tj
+/R 9.8 Tf 1 0 0 1 50 409.42 Tm (se orienta a la secuencia 1 de Matem\341ticas de quinto grado. Seg\372n los materiales del proyecto, el) Tj
+/R 9.8 Tf 1 0 0 1 50 395.11 Tm (entorno organiza doce actividades did\341cticas con explicaciones adaptadas al formato digital y diez) Tj
+/R 9.8 Tf 1 0 0 1 50 380.80 Tm (preguntas de evaluaci\363n por actividad.) Tj
+/R 9.8 Tf 1 0 0 1 50 357.50 Tm (Las explicaciones se conciben como apoyos paso a paso, con vocabulario comprensible, ejemplos y) Tj
+/R 9.8 Tf 1 0 0 1 50 343.19 Tm (oportunidades de volver sobre conceptos dif\355ciles. Las tareas trabajan aprendizajes comunes, sin) Tj
+/R 9.8 Tf 1 0 0 1 50 328.88 Tm (encasillar a los estudiantes en categor\355as permanentes de rendimiento.) Tj
+/R 9.8 Tf 1 0 0 1 50 305.57 Tm (El prototipo incorpora espacios de comentarios en las actividades, posibilidades de respuesta) Tj
+/R 9.8 Tf 1 0 0 1 50 291.26 Tm (entre compa\361eros y un foro de dudas y preguntas. Estos componentes buscan ampliar el di\341logo) Tj
+/R 9.8 Tf 1 0 0 1 50 276.96 Tm (acad\351mico, pero requieren reglas de convivencia, moderaci\363n y orientaci\363n del docente.) Tj
+/R 9.8 Tf 1 0 0 1 50 253.65 Tm (Se contempla un sistema de identificaci\363n mediante c\363digos breves de estudiantes, de un m\341ximo de) Tj
+/R 9.8 Tf 1 0 0 1 50 239.34 Tm (ocho caracteres; restricciones para que un estudiante no registre a otros; y una pesta\361a de) Tj
+/R 9.8 Tf 1 0 0 1 50 225.03 Tm (seguimiento de calificaciones por estudiante para el docente. Estas funciones deben someterse a) Tj
+/R 9.8 Tf 1 0 0 1 50 210.72 Tm (pruebas efectivas de permisos, visibilidad de datos y consistencia de registros antes de) Tj
+/R 9.8 Tf 1 0 0 1 50 196.42 Tm (introducir informaci\363n real de menores.) Tj
+/B 13 Tf 1 0 0 1 50 157.44 Tm (6. Organizaci\363n pedag\363gica del aula virtual) Tj
+/R 9.8 Tf 1 0 0 1 50 134.13 Tm (El estudiante accede a una estructura por secuencia y actividad. Cada unidad debe comunicar qu\351) Tj
+/R 9.8 Tf 1 0 0 1 50 119.82 Tm (aprender\341, recuperar ideas previas, ofrecer una explicaci\363n graduada, presentar un ejemplo) Tj
+/R 9.8 Tf 1 0 0 1 50 105.51 Tm (resuelto y proponer ejercicios que permitan comprobar su comprensi\363n.) Tj
+/R 9.8 Tf 1 0 0 1 50 82.20 Tm (El dise\361o contempla la secuencia como unidad curricular com\372n. La diferenciaci\363n ocurre mediante) Tj
+/R 9.8 Tf 1 0 0 1 50 67.90 Tm (los apoyos disponibles, la intervenci\363n docente, el tiempo de consulta y las oportunidades de) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (3) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4303 >>
+stream
+BT
+/R 9.8 Tf 1 0 0 1 50 723.69 Tm (pr\341ctica. No se afirma que la plataforma asigne autom\341ticamente itinerarios personalizados.) Tj
+/R 9.8 Tf 1 0 0 1 50 700.38 Tm (La navegaci\363n debe ser sencilla y predecible: contenidos ordenados, instrucciones visibles,) Tj
+/R 9.8 Tf 1 0 0 1 50 686.08 Tm (botones identificables y retroalimentaci\363n comprensible. El recurso digital puede combinarse con) Tj
+/R 9.8 Tf 1 0 0 1 50 671.77 Tm (actividades de cuaderno, explicaciones presenciales y fichas impresas cuando la conectividad o los) Tj
+/R 9.8 Tf 1 0 0 1 50 657.46 Tm (dispositivos sean limitados.) Tj
+/B 13 Tf 1 0 0 1 50 618.48 Tm (7. Actividades y evaluaci\363n de los aprendizajes) Tj
+/R 9.8 Tf 1 0 0 1 50 595.17 Tm (Los contenidos centrales comprenden lectura y escritura de n\372meros naturales mayores que un) Tj
+/R 9.8 Tf 1 0 0 1 50 580.86 Tm (mill\363n, valor posicional, comparaci\363n de cantidades y adici\363n en situaciones contextualizadas.) Tj
+/R 9.8 Tf 1 0 0 1 50 566.56 Tm (Para cada actividad se proponen diez preguntas que alternan ejercicios de identificaci\363n, c\341lculo,) Tj
+/R 9.8 Tf 1 0 0 1 50 552.25 Tm (interpretaci\363n y respuesta redactada, seg\372n el contenido.) Tj
+/R 9.8 Tf 1 0 0 1 50 528.94 Tm (Una actividad de ejemplo puede solicitar leer 3,405,210, descomponer 2,345,670 y resolver) Tj
+/R 9.8 Tf 1 0 0 1 50 514.63 Tm (2,345,670 + 124,350. El prop\363sito no consiste \372nicamente en registrar el resultado num\351rico) Tj
+/R 9.8 Tf 1 0 0 1 50 500.32 Tm (correcto, sino tambi\351n en comprender el procedimiento y poder explicarlo.) Tj
+/R 9.8 Tf 1 0 0 1 50 477.02 Tm (La evaluaci\363n formativa requiere interpretar errores y proporcionar orientaciones oportunas. Las) Tj
+/R 9.8 Tf 1 0 0 1 50 462.71 Tm (calificaciones por estudiante pueden facilitar la revisi\363n docente, siempre que se completen con) Tj
+/R 9.8 Tf 1 0 0 1 50 448.40 Tm (observaci\363n, an\341lisis de procedimientos y retroalimentaci\363n individual.) Tj
+/R 9.8 Tf 1 0 0 1 50 425.09 Tm (En una futura aplicaci\363n, las evidencias podr\355an incluir respuestas iniciales y finales a tareas) Tj
+/R 9.8 Tf 1 0 0 1 50 410.78 Tm (equivalentes, explicaciones escritas, cantidad y tipo de apoyos utilizados, participaci\363n en) Tj
+/R 9.8 Tf 1 0 0 1 50 396.48 Tm (espacios de interacci\363n y registros de acceso contextualizados. Los accesos por s\355 solos no) Tj
+/R 9.8 Tf 1 0 0 1 50 382.17 Tm (demuestran aprendizaje.) Tj
+/B 13 Tf 1 0 0 1 50 343.19 Tm (8. Interacci\363n, colaboraci\363n y acompa\361amiento) Tj
+/R 9.8 Tf 1 0 0 1 50 319.88 Tm (Los comentarios por actividad ofrecen un espacio para formular dudas sobre instrucciones,) Tj
+/R 9.8 Tf 1 0 0 1 50 305.57 Tm (compartir estrategias y preguntar por procedimientos. El foro permite reunir consultas generales y) Tj
+/R 9.8 Tf 1 0 0 1 50 291.26 Tm (construir respuestas bajo supervisi\363n del docente.) Tj
+/R 9.8 Tf 1 0 0 1 50 267.96 Tm (Para que estos espacios tengan valor acad\351mico, se deben establecer consignas concretas, normas de) Tj
+/R 9.8 Tf 1 0 0 1 50 253.65 Tm (respeto y orientaci\363n para explicar ideas sin publicar soluciones que impidan pensar a otros. El) Tj
+/R 9.8 Tf 1 0 0 1 50 239.34 Tm (docente modera las conversaciones y verifica que los intercambios sean pertinentes.) Tj
+/R 9.8 Tf 1 0 0 1 50 216.03 Tm (La colaboraci\363n digital complementa, pero no reemplaza, el di\341logo presencial ni otras formas de) Tj
+/R 9.8 Tf 1 0 0 1 50 201.72 Tm (apoyo. Es necesario prever que algunos estudiantes puedan participar oralmente o mediante una) Tj
+/R 9.8 Tf 1 0 0 1 50 187.42 Tm (alternativa en papel.) Tj
+/B 13 Tf 1 0 0 1 50 148.44 Tm (9. Inclusi\363n, accesibilidad y protecci\363n de datos) Tj
+/R 9.8 Tf 1 0 0 1 50 125.13 Tm (Una innovaci\363n responsable debe considerar la brecha digital: acceso a Internet, dispositivos) Tj
+/R 9.8 Tf 1 0 0 1 50 110.82 Tm (compartidos, alfabetizaci\363n tecnol\363gica y condiciones de acompa\361amiento familiar. La existencia de) Tj
+/R 9.8 Tf 1 0 0 1 50 96.51 Tm (una p\341gina web no implica igualdad de oportunidades para todos los estudiantes.) Tj
+/R 9.8 Tf 1 0 0 1 50 73.20 Tm (El dise\361o recomienda texto legible, contraste suficiente, instrucciones concisas y ejemplos) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (4) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4232 >>
+stream
+BT
+/R 9.8 Tf 1 0 0 1 50 723.69 Tm (visuales con explicaci\363n verbal. Se deben ofrecer materiales alternativos equivalentes y evitar) Tj
+/R 9.8 Tf 1 0 0 1 50 709.38 Tm (que la ausencia de conectividad determine la calificaci\363n de un estudiante.) Tj
+/R 9.8 Tf 1 0 0 1 50 686.08 Tm (En cuanto a privacidad, el uso con menores requiere autorizaci\363n institucional y medidas de) Tj
+/R 9.8 Tf 1 0 0 1 50 671.77 Tm (seguridad. Se deben validar roles de acceso, protecci\363n de credenciales, restricci\363n de altas de) Tj
+/R 9.8 Tf 1 0 0 1 50 657.46 Tm (usuarios y separaci\363n de resultados individuales. Los datos de demostraci\363n no deben incluir) Tj
+/R 9.8 Tf 1 0 0 1 50 643.15 Tm (calificaciones ni identificadores reales de estudiantes.) Tj
+/B 13 Tf 1 0 0 1 50 604.17 Tm (10. Propuesta de validaci\363n y mejora) Tj
+/R 9.8 Tf 1 0 0 1 50 580.86 Tm (La primera fase consiste en comprobar el funcionamiento t\351cnico: enlaces, navegaci\363n,) Tj
+/R 9.8 Tf 1 0 0 1 50 566.56 Tm (visualizaci\363n en dispositivos, acceso por rol, l\355mites de registro, almacenamiento de respuestas y) Tj
+/R 9.8 Tf 1 0 0 1 50 552.25 Tm (protecci\363n de calificaciones. La revisi\363n debe realizarse con cuentas de prueba, no con datos) Tj
+/R 9.8 Tf 1 0 0 1 50 537.94 Tm (reales de menores.) Tj
+/R 9.8 Tf 1 0 0 1 50 514.63 Tm (Una segunda fase puede incorporar una valoraci\363n de usabilidad y accesibilidad con docentes y) Tj
+/R 9.8 Tf 1 0 0 1 50 500.32 Tm (usuarios de prueba. Se registrar\355an problemas de comprensi\363n de instrucciones, dificultades de) Tj
+/R 9.8 Tf 1 0 0 1 50 486.02 Tm (navegaci\363n y necesidades de apoyo.) Tj
+/R 9.8 Tf 1 0 0 1 50 462.71 Tm (En una futura aplicaci\363n pedag\363gica, se comparar\355an evidencias de aprendizajes iniciales y) Tj
+/R 9.8 Tf 1 0 0 1 50 448.40 Tm (posteriores sobre contenidos equivalentes. Tambi\351n se analizar\355an los procedimientos y la) Tj
+/R 9.8 Tf 1 0 0 1 50 434.09 Tm (participaci\363n. Sin un dise\361o evaluativo apropiado, los cambios no podr\355an atribuirse) Tj
+/R 9.8 Tf 1 0 0 1 50 419.78 Tm (exclusivamente a la plataforma.) Tj
+/R 9.8 Tf 1 0 0 1 50 396.48 Tm (Los criterios de valoraci\363n sugeridos son comprensi\363n matem\341tica, claridad de las explicaciones,) Tj
+/R 9.8 Tf 1 0 0 1 50 382.17 Tm (autonom\355a, interacci\363n pertinente, uso formativo de resultados, inclusi\363n y resguardo de la) Tj
+/R 9.8 Tf 1 0 0 1 50 367.86 Tm (informaci\363n.) Tj
+/B 13 Tf 1 0 0 1 50 328.88 Tm (11. Reflexi\363n cr\355tica del grupo Red de Innovaci\363n) Tj
+/R 9.8 Tf 1 0 0 1 50 305.57 Tm (Como grupo de maestrantes reconocemos que construir un aula virtual constituye un ejercicio de) Tj
+/R 9.8 Tf 1 0 0 1 50 291.26 Tm (dise\361o pedag\363gico antes que una tarea exclusivamente tecnol\363gica. El mayor desaf\355o no es reunir) Tj
+/R 9.8 Tf 1 0 0 1 50 276.96 Tm (funciones, sino procurar que cada componente responda a una necesidad educativa y facilite una) Tj
+/R 9.8 Tf 1 0 0 1 50 262.65 Tm (experiencia comprensible para los estudiantes.) Tj
+/R 9.8 Tf 1 0 0 1 50 239.34 Tm (El proyecto nos lleva a valorar la claridad de las instrucciones, el seguimiento de los procesos) Tj
+/R 9.8 Tf 1 0 0 1 50 225.03 Tm (de aprendizaje y la interacci\363n respetuosa. Tambi\351n nos recuerda la responsabilidad de proteger la) Tj
+/R 9.8 Tf 1 0 0 1 50 210.72 Tm (informaci\363n de los menores y de no confundir la existencia de un prototipo con la demostraci\363n de) Tj
+/R 9.8 Tf 1 0 0 1 50 196.42 Tm (su eficacia.) Tj
+/R 9.8 Tf 1 0 0 1 50 173.11 Tm (Consideramos que la innovaci\363n educativa requiere revisi\363n continua, apertura a la) Tj
+/R 9.8 Tf 1 0 0 1 50 158.80 Tm (retroalimentaci\363n y criterios de equidad. En consecuencia, el recurso debe entenderse como una) Tj
+/R 9.8 Tf 1 0 0 1 50 144.49 Tm (propuesta susceptible de evaluaci\363n y mejora.) Tj
+/B 13 Tf 1 0 0 1 50 105.51 Tm (12. Conclusiones) Tj
+/R 9.8 Tf 1 0 0 1 50 82.20 Tm (El T\363pico 3 representa la materializaci\363n digital de una propuesta pedag\363gica: un prototipo de) Tj
+/R 9.8 Tf 1 0 0 1 50 67.90 Tm (aula virtual que organiza la secuencia 1 de Matem\341ticas de quinto grado mediante contenidos,) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (5) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 1672 >>
+stream
+BT
+/R 9.8 Tf 1 0 0 1 50 723.69 Tm (actividades evaluativas, interacci\363n y seguimiento individual.) Tj
+/R 9.8 Tf 1 0 0 1 50 700.38 Tm (Su principal valor acad\351mico es la articulaci\363n del dise\361o instruccional con recursos tecnol\363gicos) Tj
+/R 9.8 Tf 1 0 0 1 50 686.08 Tm (y principios de aprendizaje colaborativo, evaluaci\363n formativa e inclusi\363n. La plataforma puede) Tj
+/R 9.8 Tf 1 0 0 1 50 671.77 Tm (explorarse, pero su adecuaci\363n t\351cnica, accesibilidad y efecto sobre los aprendizajes deben) Tj
+/R 9.8 Tf 1 0 0 1 50 657.46 Tm (comprobarse antes de afirmar resultados.) Tj
+/R 9.8 Tf 1 0 0 1 50 634.15 Tm (El aprendizaje central del proyecto consiste en que un aula virtual innovadora no se define) Tj
+/R 9.8 Tf 1 0 0 1 50 619.84 Tm (solamente por sus herramientas, sino por la calidad de las oportunidades educativas que hace) Tj
+/R 9.8 Tf 1 0 0 1 50 605.54 Tm (posibles.) Tj
+/B 13 Tf 1 0 0 1 50 566.56 Tm (13. Referencias bibliogr\341ficas) Tj
+/R 9.8 Tf 1 0 0 1 50 543.25 Tm (CAST. \(2024\). Universal design for learning guidelines version 3.0.) Tj
+/R 9.8 Tf 1 0 0 1 50 528.94 Tm (https://udlguidelines.cast.org/) Tj
+/R 9.8 Tf 1 0 0 1 50 505.63 Tm (UNESCO. \(2023\). Global education monitoring report 2023: Technology in education - A tool on whose) Tj
+/R 9.8 Tf 1 0 0 1 50 491.32 Tm (terms? https://www.unesco.org/gem-report/en/publication/technology) Tj
+/R 9.8 Tf 1 0 0 1 50 468.02 Tm (Vygotsky, L. S. \(1978\). Mind in society: The development of higher psychological processes.) Tj
+/R 9.8 Tf 1 0 0 1 50 453.71 Tm (Harvard University Press.) Tj
+/R 8 Tf 1 0 0 1 50 37 Tm (Red de Innovaci\363n - T\363pico 3) Tj 1 0 0 1 515 37 Tm (6) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 3 0 R /B 4 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000149 00000 n 
+0000000246 00000 n 
+0000000348 00000 n 
+0000001481 00000 n 
+0000001615 00000 n 
+0000006357 00000 n 
+0000006491 00000 n 
+0000010967 00000 n 
+0000011102 00000 n 
+0000015457 00000 n 
+0000015593 00000 n 
+0000019877 00000 n 
+0000020013 00000 n 
+0000021737 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+21873
+%%EOF
