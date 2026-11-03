@@ -213,3 +213,17 @@
 .tl-section .tl-infographic{margin-top:36px}
 @media(max-width:900px){.tl-section .tl-cards{grid-template-columns:1fr 1fr}.tl-journey{grid-template-columns:1fr}.tl-journey-steps{gap:8px}}
 @media(max-width:630px){.tl-section .tl-cards{grid-template-columns:1fr}.tl-section .tl-card{min-height:auto}.tl-journey-steps{grid-template-columns:1fr}.tl-journey-steps>div+div:before{content:"↓";margin:0 7px}.tl-journey{padding:20px}.tl-keytake{padding:20px}.tl-section .tl-subheading{margin-top:42px}}
+
+/* Tópicos: lectura académica intermedia, sin infografía 01 */
+#topico1 .tl-feature-text-only{display:block;max-width:1100px;margin-inline:auto}
+#topico1 .tl-feature-text-only .tl-lead{padding:clamp(28px,4vw,50px)}
+#topico1 .tl-feature-text-only .tl-lead>p{max-width:100ch}
+.tl-section .tl-lead>p{font-size:15px;line-height:1.85;margin-bottom:14px}
+.tl-section .tl-card{min-height:310px}
+.tl-section .tl-card p{max-width:none;font-size:14px;line-height:1.78}
+.tl-editorial-panel{margin:27px 0 12px;padding:26px 32px;border:1px solid #e2e7f1;border-left:5px solid var(--topic-accent,#6855d9);border-radius:20px;background:linear-gradient(100deg,var(--topic-wash,#f4f1ff),#fff 78%)}
+.tl-editorial-label{display:block;color:var(--topic-accent,#6855d9);font-size:11px;font-weight:850;letter-spacing:.12em;margin-bottom:10px}
+.tl-editorial-panel h3{font-size:clamp(21px,2.3vw,27px);letter-spacing:-.03em;line-height:1.25;color:#192640;margin:0 0 12px}
+.tl-editorial-panel p{font-size:15px;line-height:1.8;color:#4f5f78;margin:0;max-width:105ch}
+@media(max-width:900px){.tl-section .tl-card{min-height:unset}}
+@media(max-width:630px){.tl-editorial-panel{padding:22px}.tl-section .tl-lead>p{font-size:14px}}
