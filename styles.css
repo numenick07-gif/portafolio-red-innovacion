@@ -41,3 +41,22 @@
 .team-bio p{color:#52627d;font-size:15px;line-height:1.78;margin:0 0 15px}
 .portrait-yessica{background:linear-gradient(145deg,#7660e8,#9aaff5)}
 @media(max-width:760px){.team-profile{grid-template-columns:1fr;gap:16px;padding:15px}.team-portrait{height:330px}.team-bio{padding:9px 10px 14px}.team-bio h3{font-size:27px}.team-bio p{font-size:14px}}
+
+/* Equipo: galería editorial de tres tarjetas equilibradas */
+.team-redesign{margin:80px auto 0;max-width:1320px}
+.team-redesign .heading{margin-bottom:34px}
+.team-profile-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;align-items:stretch}
+.team-profile{display:flex;flex-direction:column;gap:0;align-items:stretch;background:#fff;border:1px solid #e1e6f2;border-radius:26px;padding:12px;overflow:hidden;box-shadow:0 12px 36px rgba(19,32,63,.06);transition:transform .24s ease, box-shadow .24s ease}
+.team-profile:hover{transform:translateY(-5px);box-shadow:0 20px 44px rgba(21,33,74,.12)}
+.team-profile .team-portrait{width:100%;height:auto;aspect-ratio:4 / 4.3;min-height:0;flex:none;border-radius:18px;background:linear-gradient(145deg,#b9b2ff,#e7eafa)}
+.team-profile .team-portrait img{width:100%;height:100%;object-fit:cover;object-position:center 22%;display:block}
+.team-profile .team-portrait.portrait-yessica img{object-position:59% 25%}
+.team-profile .portrait-initials{font-size:52px}
+.team-profile .team-bio{padding:25px 15px 20px;flex:1;min-width:0}
+.team-profile .team-bio h3{font-size:clamp(23px,2vw,29px);line-height:1.16;letter-spacing:-.035em;margin:13px 0 10px}
+.team-profile .team-bio .team-profession{font-size:14px!important;margin-bottom:17px!important;line-height:1.5}
+.team-profile .team-bio p{font-size:14px;line-height:1.78;margin:0 0 14px}
+.team-profile .team-bio .small-label{font-size:10px;letter-spacing:.09em}
+.team-profile .team-bio strong{color:#263756}
+@media(max-width:1000px){.team-profile-list{grid-template-columns:repeat(2,minmax(0,1fr))}.team-profile:first-child{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,40%) minmax(0,1fr);gap:20px;align-items:center}.team-profile:first-child .team-portrait{height:100%;aspect-ratio:auto;min-height:380px}.team-profile:first-child .team-bio{padding:22px}}
+@media(max-width:680px){.team-profile-list{grid-template-columns:1fr;gap:18px}.team-profile:first-child{display:flex;grid-column:auto;gap:0}.team-profile:first-child .team-portrait{height:auto;aspect-ratio:4 / 4.3;min-height:0}.team-profile:first-child .team-bio{padding:25px 15px 20px}.team-profile .team-portrait{aspect-ratio:4 / 3.65}.team-profile .team-bio h3{font-size:26px}}
