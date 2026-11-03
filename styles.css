@@ -148,3 +148,15 @@
 @media(max-width:900px){.tl-feature{grid-template-columns:1fr}.tl-cards,.tl-infographic-grid{grid-template-columns:1fr 1fr}.tl-art img{max-height:380px}.tl-lead{padding:27px}}
 @media(max-width:600px){.tl-cards,.tl-infographic-grid{grid-template-columns:1fr}.tl-card{min-height:0}.tl-infographic{padding:18px}.tl-art{min-height:240px}.tl-art img{min-height:210px}}
 @media(prefers-reduced-motion:reduce){.tl-card{transition:none}}
+
+/* Original academic infographic at end of topic one */
+.tl-poster-showcase{margin:42px auto 0;padding:clamp(18px,3vw,35px);border:1px solid #e2e6f2;border-radius:27px;background:linear-gradient(145deg,#f5f2ff,#eef8ff 56%,#fffaf0);box-shadow:0 16px 40px rgba(25,40,89,.06);text-align:center}
+.tl-poster-intro{max-width:700px;margin:0 auto 25px}
+.tl-poster-intro span{font-size:11px;letter-spacing:.15em;color:#6350d6;font-weight:900}
+.tl-poster-intro h3{font-size:clamp(24px,3vw,36px);line-height:1.2;letter-spacing:-.035em;color:#17223e;margin:9px 0}
+.tl-poster-intro p{color:#60718a;font-size:15px;line-height:1.7;margin:0}
+.tl-poster-showcase>a{display:block;max-width:750px;margin:auto;overflow:hidden;border-radius:17px;box-shadow:0 22px 45px rgba(28,33,87,.13);background:#fff;transition:transform .2s ease}
+.tl-poster-showcase>a:hover{transform:translateY(-3px)}
+.tl-poster-showcase img{display:block;width:100%;height:auto;object-fit:contain}
+.tl-poster-showcase figcaption{color:#66738a;font-size:13px;margin-top:20px}
+@media(prefers-reduced-motion:reduce){.tl-poster-showcase>a{transition:none}}
