@@ -9,3 +9,17 @@
 .team-grid.two-members{grid-template-columns:repeat(2,minmax(0,1fr))}
 .team-grid.two-members .person{min-height:215px}
 @media(max-width:800px){.profile-featured{grid-template-columns:1fr;padding:17px;gap:20px}.profile-photo{max-height:450px;min-height:350px}.team-grid.two-members{grid-template-columns:1fr}}
+
+/* Perfiles del equipo · tarjetas con retratos integrados */
+.team-grid.two-members{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;align-items:stretch}
+.person.person-detailed{display:flex;align-items:flex-start;gap:20px;padding:25px;background:#fff;border:1px solid #e4e8f2;border-radius:22px;box-shadow:0 12px 36px rgba(18,32,62,.055)}
+.member-portrait{flex:0 0 150px;align-self:stretch;min-height:205px;border-radius:17px;overflow:hidden;position:relative}
+.member-placeholder{background:linear-gradient(145deg,#6254e8,#94bbff);display:grid;place-items:center;color:white;font:800 2.4rem Manrope,sans-serif}
+.member-portrait img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.member-content{min-width:0}
+.member-content h3{font-size:clamp(1.35rem,2vw,1.75rem);line-height:1.2;margin:9px 0}
+.member-content p{font-size:14px;line-height:1.75;margin-bottom:12px}
+.member-role{color:#6757dc!important;font-weight:800}
+.member-note{font-style:italic;color:#7b8499}
+@media(max-width:1080px){.team-grid.two-members{grid-template-columns:1fr}}
+@media(max-width:600px){.person.person-detailed{flex-direction:column}.member-portrait{align-self:stretch;min-height:280px;flex-basis:auto}.member-content h3{font-size:1.55rem}}
