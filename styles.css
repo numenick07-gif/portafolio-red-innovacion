@@ -247,3 +247,15 @@
 .reflection-prose p{font-size:14px;line-height:1.9;color:#e7ebf5;margin:0 0 19px}
 .reflection-prose .reflection-draft{font-style:italic;color:#ffd9a4}
 @media(max-width:1050px){.final-reflections{grid-template-columns:1fr}.final-reflection .reflection-summary{min-height:0}.reflection-prose{max-height:unset;overflow:visible}}
+
+/* Tópico 5: identidad visual de auditoría e indicadores */
+#topico5{--topic-accent:#4e75cf;--topic-wash:#ebf3ff;--topic-deep:#203d85}
+#topico5 .topic5-illustration{display:flex;align-items:center;justify-content:center;min-height:370px;border-radius:25px;background:radial-gradient(circle at 25% 20%,#c6e7ff 0,transparent 55%),linear-gradient(135deg,#203d85,#5e56c8 78%);color:#fff;position:relative;overflow:hidden;padding:30px}
+#topico5 .topic5-art-inner{display:flex;align-items:center;flex-direction:column;text-align:center;gap:12px;max-width:350px}
+#topico5 .topic5-art-icon{display:grid;place-items:center;width:88px;height:88px;border:2px solid rgba(255,255,255,.5);border-radius:28px;font-size:54px;background:rgba(255,255,255,.13)}
+#topico5 .topic5-art-inner>strong{font-size:11px;letter-spacing:.2em;color:#c1e8ff}
+#topico5 .topic5-art-inner h3{font-size:clamp(28px,3.4vw,43px);line-height:1.06;letter-spacing:-.035em;color:#fff;margin:0}
+#topico5 .topic5-art-inner p{font-size:14px;color:#e7ebff;margin:0}
+#topico5 .topic5-art-bars{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:12px}
+#topico5 .topic5-art-bars span{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.1);border-radius:20px;padding:8px 11px;font-size:11px}
+#topico5 .topic5-illustration .tl-art-label{background:#e9f2ff;color:#203d85}
