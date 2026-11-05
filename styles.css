@@ -344,3 +344,33 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #8D
 footer{background:#111D36}
 footer p{color:#C6D0E7}
 @media(max-width:730px){.site-header nav{background:#FFF}}
+
+/* Referencias bibliográficas: continuidad visual azul-violeta del portafolio */
+.references{background:linear-gradient(180deg,#F5F6FD 0%,#FBFAFF 53%,#EEF2FC 100%);padding:100px 24px 115px}
+.references-wrap{max-width:1120px;margin:0 auto}
+.references-hero{max-width:940px;margin:0 auto 42px;text-align:center}
+.references-kicker,.references-overline{font-size:11px;font-weight:800;letter-spacing:.16em;color:#7463B9}
+.references-kicker{margin-bottom:14px}
+.references-hero h2{font-size:clamp(2.4rem,5vw,4.6rem);color:#243759;margin-bottom:20px}
+.references-hero h2 em{font-style:normal;color:#7566BD}
+.references-hero>p:not(.references-kicker){color:#63708D;max-width:750px;margin:0 auto 25px;line-height:1.85}
+.references-jump{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}
+.references-jump a{border:1px solid #D9DDF2;background:#FFFFFFCC;border-radius:100px;padding:8px 17px;font-size:12px;font-weight:800;color:#5369A0;transition:.2s}
+.references-jump a:hover,.references-jump a:focus-visible{background:#EDE9FB;border-color:#B2A3E2;color:#55468F}
+.references-stack{display:grid;gap:20px}
+.references-card{scroll-margin-top:115px;background:#fff;border:1px solid #E2E6F3;border-radius:23px;padding:32px 36px;box-shadow:0 13px 32px #23365A0B}
+.references-card:nth-child(even){border-left:4px solid #8298D2}
+.references-card:nth-child(odd){border-left:4px solid #A28ADD}
+.references-card-header{display:flex;align-items:flex-start;gap:17px;margin-bottom:21px;padding-bottom:20px;border-bottom:1px solid #EEF0F8}
+.references-index{flex:0 0 50px;display:grid;place-items:center;background:#F0ECFC;border-radius:15px;color:#6855A9;font:800 19px Manrope,sans-serif;height:50px}
+.references-card:nth-child(even) .references-index{background:#EAF0FC;color:#526DA3}
+.references-card-header h3{font-size:clamp(1.18rem,2.3vw,1.6rem);letter-spacing:-.03em;margin:5px 0 6px;color:#243759}
+.references-card-header p{font-size:13px;color:#73809A;margin:0}
+.references-list{list-style:none;margin:0;padding:0}
+.references-list li{margin:0 0 15px;padding:0 0 0 2.1rem;text-indent:-2.1rem;font-size:14px;line-height:1.9;color:#3D4C67;overflow-wrap:anywhere}
+.references-list a{color:#5B56AB;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#C6BCEC}
+.references-list a:hover{color:#365B9D}
+.references-list em{font-style:italic}
+.references-back{font-size:12px;font-weight:800;color:#7162AD;display:inline-block;margin-top:7px}
+.references-note{border-top:1px solid #DCE2F1;margin:30px 3px 0;padding:22px 7px 0;font-size:13px;line-height:1.9;color:#68758F}
+@media(max-width:730px){.references{padding:67px 14px 80px}.references-card{padding:23px 19px;border-radius:18px}.references-card-header{gap:12px}.references-index{flex-basis:42px;height:42px;font-size:16px}.references-list li{font-size:13px;padding-left:1.4rem;text-indent:-1.4rem}.references-jump a{font-size:11px;padding:8px 12px}}
